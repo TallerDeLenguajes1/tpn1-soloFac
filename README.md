@@ -1,6 +1,6 @@
-# TRABAJO PRACTICO Nro1
+## TRABAJO PRACTICO Nro1
 
-## Manejo de punteros y versionado en git y github.
+### Manejo de punteros y versionado en git y github.
 
 ### Tareas en el repositorio
 
