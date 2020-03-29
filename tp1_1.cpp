@@ -6,7 +6,7 @@ int main(){
     punta = &a;
 
     printf("Contenido de puntero: %d \n", *punta);
-    printf("Direccion de memoria del puntero: %p \n", punta);
+    printf("Direccion de memoria que almacena la variable puntero: %p \n", punta);
     printf("Direccion de memoria de la variable: %p \n", &a);
     printf("Direccion de memoria del puntero: %p \n", &punta);
     tam = sizeof(a);
